@@ -76,8 +76,6 @@ Reemplaza TU_USUARIO por tu usuario de GitHub y descomenta.
 </p>
 -->
 
----
-
 <p align="center">⚡ Gracias por visitar mi perfil ⚡</p>
 ---
 
