@@ -14,6 +14,7 @@
 ## 🙋‍♂️ Conecta conmigo
 
 <p align="left">
+  <a href="mailto:carloslorenzdev@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.tiktok.com/@carloslorenzdev"><img alt="TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
   <a href="https://www.instagram.com/carlosluis9975/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.facebook.com/carlos.678739"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
@@ -75,5 +76,7 @@ Reemplaza TU_USUARIO por tu usuario de GitHub y descomenta.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true"/>
 </p>
 -->
+
+---
 
 <p align="center">⚡ Gracias por visitar mi perfil ⚡</p>
